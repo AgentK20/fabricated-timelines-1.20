@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "7e0aa0482e5ffef1c3a1d533813cd734db0b6d4ace1f83dfbaab63372236d823"
+hash = "21829fcfe024c31224f945753671b15923aeb59d199dc771cc8773f4da81992e"
 metafile = true
 
 [[files]]
