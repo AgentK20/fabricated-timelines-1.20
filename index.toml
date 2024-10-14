@@ -20,6 +20,11 @@ hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "b03884978f6f554b95ac3ffa2bcb1667e36cecf9cdad741925be79a3f7ad5ba5"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
@@ -315,6 +320,11 @@ hash = "7aa88c3736f441c44c44457e337d0c45eaa4302efd807f5023757ddd44d6de20"
 metafile = true
 
 [[files]]
+file = "mods/polydex.pw.toml"
+hash = "b0f18e9852ac04732fa55dd0072903d45d8779fe4e18315f425fe3f1c2441396"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "34f3e071220deb81fe7bc4d7d005e6caabae32f089f3166a7e903819f4a78166"
 metafile = true
@@ -322,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "bcb0292c0d9aba87dd610c14f5d20e79492b8a1f14310beae1466309a924f531"
 metafile = true
 
 [[files]]
