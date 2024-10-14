@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "a0d5eb3df7850604e031f96cb0ef29e28a91ff6a99a6449e36864b5709c2bb8f"
+
+[[files]]
 file = "mods/accessories-tc-layer.pw.toml"
 hash = "d089bd1afa7fad1d3c8414b3f1765cdca030b20d974bdd1f8e232069286c26d0"
 metafile = true
@@ -93,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "8aec33fd7fe23bb93f5794b58faee5b34f8b35691a817519b3fa0aee1db09cde"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
 metafile = true
 
 [[files]]
