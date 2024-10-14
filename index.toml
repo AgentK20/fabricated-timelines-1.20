@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a0d5eb3df7850604e031f96cb0ef29e28a91ff6a99a6449e36864b5709c2bb8f"
+hash = "2d6b0ae27a9e6b6c2c07439d0be94289136e00e1a2b20004bb54466d9b9981b0"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"

@@ -5,6 +5,11 @@
             "-breaks": {
                 "sodium": "IGNORED"
             }
+        },
+        "sodium": {
+            "-breaks": {
+                "immersive_portals": "IGNORED"
+            }
         }
     }
 }
