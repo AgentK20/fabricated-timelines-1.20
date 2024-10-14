@@ -1,0 +1,13 @@
+name = "Mini Tardis"
+filename = "mini_tardis-1.0.4+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae82b38f598d4be4df069ad0ffd4100360a7cafe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5210171
+project-id = 972910

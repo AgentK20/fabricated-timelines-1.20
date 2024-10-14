@@ -255,6 +255,16 @@ hash = "3a82c08c74d69af0bc30a682da43945005455162276f60efdc3eb5b62d747499"
 metafile = true
 
 [[files]]
+file = "mods/mini-tardis-portals.pw.toml"
+hash = "72490fec772d93d40a1bd2c900d71fbb497493af39c5e93e9dc11d3d32c77266"
+metafile = true
+
+[[files]]
+file = "mods/mini-tardis.pw.toml"
+hash = "eb98750a590148a39fac8beec0a852e5c5537646a35723351ab9fe8883cebd32"
+metafile = true
+
+[[files]]
 file = "mods/modern-ui.pw.toml"
 hash = "8e5627765108652310386eca1762731cfec2d0b9a57b540f812befc5b1530ef5"
 metafile = true
