@@ -1,4 +1,4 @@
-# fabricated-timelines
+# fabricated-timelines 1.20
 This modpack is distributed as a Packwiz modpack.
 
 You may install it using the Packwiz bootstrapper using the following pre-launch command:
